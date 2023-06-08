@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cmdreay
 - 👀 I’m interested in js code
-- 🌱 I’m currently learning eletron
+- 🌱 I’m currently learning koa2
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me cmdream2016@163.com
 
